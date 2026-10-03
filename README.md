@@ -12,3 +12,4 @@ Sin registro, siempre gratis. Pensada para estudiantes, docentes y familias.
 
 - [Cómo enseñar las sumas con llevadas para que de verdad se entiendan](https://cadojp-matematicas.blogspot.com/2026/09/como-ensenar-las-sumas-con-llevadas.html): guía práctica con los errores más comunes y cómo corregirlos en clase.
 - [Recursos gratuitos de matemáticas paso a paso](https://sites.google.com/view/recursosdematemticascadojp): el sitio con todas las guías y herramientas reunidas para usar con tus alumnos.
+- [Cómo enseñar las restas con llevadas](guias/como-ensenar-restas-con-llevadas.md): guía con el método paso a paso para enseñar a pedir prestado en clase. También publicada en el [blog](https://cadojp-matematicas.blogspot.com/2026/10/como-ensenar-las-restas-con-llevadas.html).
